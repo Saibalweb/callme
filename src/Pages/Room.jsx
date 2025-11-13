@@ -37,7 +37,7 @@ const Room = () => {
         }
      },[socket,handleNewUserJoined,handleIncommngCall,handleCallAccepted])
   return (
-    <div>This is room page..</div>
+    <div></div>
   )
 }
 
